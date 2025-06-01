@@ -1,4 +1,4 @@
-🚀 SSAS Tabular Stress Test Tool – Now on GitHub!
+🚀 SSAS Tabular Stress Test Tool
 
 I’ve just published a simple yet powerful console-based tool to run stress tests on on-premises SSAS Tabular models.
 
@@ -10,7 +10,3 @@ I’ve just published a simple yet powerful console-based tool to run stress tes
 🧪 Designed to simulate concurrent DAX executions and measure response times under load.
 
 Ideal for performance testing, optimization validation, or load simulations.
-
-🔗 Check it out on GitHub: [Your GitHub Repo Link]
-
-#SSAS #DAX #TabularModel #PerformanceTesting #CSharp #StressTest #BI #OnPrem #DataPlatform
